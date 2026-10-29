@@ -4,10 +4,15 @@ A plugin for [Omarchy](https://omarchy.org/) to manage NetworkManager OpenVPN co
 
 ## Installation
 
-1. Clone this repository into your Omarchy plugins directory:
-   `git clone https://github.com/germanviter/omarchy-openvpn.git ~/.config/omarchy/plugins/germanviter.openvpn`
+1. Install the plugin using the Omarchy CLI:
+   `omarchy plugin add https://github.com/GermanViter/omarchy-openvpn`
 2. Restart Omarchy shell:
    `omarchy restart shell`
+
+## Removal
+
+To remove the plugin, run:
+`omarchy plugin remove germanviter.openvpn`
 
 ## Usage
 
