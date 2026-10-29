@@ -1,6 +1,7 @@
 # OpenVPN Plugin for Omarchy
 
 A plugin for [Omarchy](https://omarchy.org/) to manage NetworkManager OpenVPN connections with quick connect and disconnect actions.
+![Preview Image](preview.png)
 
 ## Installation
 
